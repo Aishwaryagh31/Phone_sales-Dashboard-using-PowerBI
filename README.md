@@ -46,6 +46,13 @@ This project is a **Sales Analysis Dashboard** for mobile phones created using *
 
 ---
 
+✅ Conclusion
+
+This Power BI dashboard effectively showcases how sales data can be transformed into actionable business insights. By analyzing key metrics such as total sales, transaction trends, customer ratings, and popular brands/models, stakeholders can make data-driven decisions to improve business performance
+
+
+---
+
 
 
 
